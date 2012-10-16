@@ -20,3 +20,4 @@
 *.sln
 /*.suo
 /_ReSharper.RedCube-csharp/
+/bin/
